@@ -11,13 +11,13 @@ This cheatsheet is aimed at CTF players and beginners to help them sort Vulnhub 
   <a href="https://www.instagram.com/_.sh4d0wspl01t/">
     <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="40" height="40" />
   </a>
-  <a href="https://github.com/yourhandle">
+  <a href="https://github.com/Sh4d0wSpl01t">
     <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" width="40" height="40" />
   </a>
-  <a href="https://linkedin.com/in/yourhandle">
+  <a href="www.linkedin.com/in/mathew-kamau-164801380">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40" />
   </a>
-  <a href="https://youtube.com/@yourhandle">
+  <a href="https://www.youtube.com/@Thee.Samurai.Hacker">
     <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" width="40" height="40" />
   </a>
 </p>
