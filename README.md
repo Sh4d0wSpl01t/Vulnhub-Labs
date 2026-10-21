@@ -21,3 +21,11 @@ This cheatsheet is aimed at CTF players and beginners to help them sort Vulnhub 
     <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" width="40" height="40" />
   </a>
 </p>
+
+---
+<figure class="rc-media" id="media-12">
+      <div class="rc-media-frame">
+        <img src="VulnHub Neon Cybersecurity Banner.png"
+        <div class="rc-media-fallback">
+      </div>
+    </figure>
