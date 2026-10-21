@@ -31,4 +31,15 @@ This cheatsheet is aimed at CTF players and beginners to help them sort Vulnhub 
     </figure>
     
 1. [Breakout](https://sh4d0wspl01t.github.io/writeups/breakout.html)
-2. 
+2. [Hacksudo](https://sh4d0wspl01t.github.io/writeups/hacksudo.html)
+3. [DC-3.2](https://sh4d0wspl01t.github.io/writeups/dc-3.2.html)
+4. [Presidential-1](https://sh4d0wspl01t.github.io/writeups/presidential-1.html)
+5. [EvilBox-1](https://sh4d0wspl01t.github.io/writeups/evilbox-1.html)
+6. [Born2Root-1](https://sh4d0wspl01t.github.io/writeups/Born2Root-1.html)
+7. [Born2Root-2](https://sh4d0wspl01t.github.io/writeups/Born2Root-2.html)
+8. [Venom](https://sh4d0wspl01t.github.io/writeups/venom.html)
+9. [Nightfall](https://sh4d0wspl01t.github.io/writeups/nightfall.html)
+10. [Hacker-Kid](https://sh4d0wspl01t.github.io/writeups/hacker-kid.html)
+11. [FunBox-1](https://sh4d0wspl01t.github.io/writeups/funbox-1.html)
+12. [FunBox-Rookie](https://sh4d0wspl01t.github.io/writeups/funbox-rookie.html)
+13. [Cereal-1](https://sh4d0wspl01t.github.io/writeups/cereal-1.html)
