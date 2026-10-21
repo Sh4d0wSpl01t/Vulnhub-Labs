@@ -3,7 +3,7 @@
 
 # Vulnhub-CTF-Writeups
 
-This cheatsheet is aimed at CTF players and beginners to help them sort Vulnhub Labs. This list contains all the writeups available on hackingarticles. We have performed and compiled this list based on our experience. Please share this with your connections and direct queries and feedback to [Hacking Articles](https://www.hackingarticles.in).
+This cheatsheet is aimed at CTF players and beginners to help them sort Vulnhub Labs. This list contains all the writeups available on hackingarticles. We have performed and compiled this list based on our experience. Please share this with your connections and direct queries and feedback to [0xWriteups]([https://www.hackingarticles.in](https://sh4d0wspl01t.github.io/writeups/index.html)).
 
 ## Follow us on
 
