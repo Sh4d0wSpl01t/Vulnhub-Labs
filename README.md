@@ -9,8 +9,8 @@ Official Cybersecurity Writeups page [0xWriteups](https://sh4d0wspl01t.github.io
   <a href="https://www.instagram.com/_.sh4d0wspl01t/">
     <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="40" height="40" />
   </a>
-  <a href="https://github.com/Sh4d0wSpl01t">
-    <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" width="40" height="40" />
+  <a href="https://sh4d0wspl01t.github.io/0xWriteups/index.html">
+    <img src="0xwriteups-terminal-icon.png" alt="0xWriteups" width="40" height="40" />
   </a>
   <a href="www.linkedin.com/in/mathew-kamau-164801380">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40" />
