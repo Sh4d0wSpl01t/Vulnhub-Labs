@@ -28,17 +28,47 @@ Official Cybersecurity Writeups page [0xWriteups](https://sh4d0wspl01t.github.io
       </div>
     </figure>
     
-1. [Breakout](https://sh4d0wspl01t.github.io/writeups/breakout.html)
-2. [Hacksudo](https://sh4d0wspl01t.github.io/writeups/hacksudo.html)
-3. [DC-3.2](https://sh4d0wspl01t.github.io/writeups/dc-3.2.html)
-4. [Presidential-1](https://sh4d0wspl01t.github.io/writeups/presidential-1.html)
-5. [EvilBox-1](https://sh4d0wspl01t.github.io/writeups/evilbox-1.html)
-6. [Born2Root-1](https://sh4d0wspl01t.github.io/writeups/Born2Root-1.html)
-7. [Born2Root-2](https://sh4d0wspl01t.github.io/writeups/Born2Root-2.html)
-8. [Venom](https://sh4d0wspl01t.github.io/writeups/venom.html)
-9. [Nightfall](https://sh4d0wspl01t.github.io/writeups/nightfall.html)
-11. [Hacker-Kid](https://sh4d0wspl01t.github.io/writeups/hacker-kid.html)
-12. [FunBox-1](https://sh4d0wspl01t.github.io/writeups/funbox-1.html)
-13. [FunBox-Rookie](https://sh4d0wspl01t.github.io/writeups/funbox-rookie.html)
-14. [Cereal-1](https://sh4d0wspl01t.github.io/writeups/cereal-1.html)
-15. [FunBox-Easy](https://sh4d0wspl01t.github.io/writeups/funbox-easy.html)
+### 📦 FunBox Series
+- [FunBox-1](link-to-writeup)
+- [FunBox-Rookie](link-to-writeup)
+- [FunBox-Easy](link-to-writeup)
+- [FunBox-NextLevel](link-to-writeup)
+- [FunBox-CTF](link-to-writeup)
+- [FunBox-GambleHall](link-to-writeup)
+- [FunBox-EasyEnum](link-to-writeup)
+- [FunBox-LunchBreaker](link-to-writeup)
+- [FunBox-GaoKao](link-to-writeup)
+- [FunBox-UnderConstruction](link-to-writeup)
+- [FunBox-ScriptKiddie](link-to-writeup)
+
+### 📦 Born2Root Series
+- [Born2Root-1](link-to-writeup)
+- [Born2Root-2](link-to-writeup)
+
+### 📦 Shenron Series
+- [Shenron-1](link-to-writeup)
+- [Shenron-2](link-to-writeup)
+- [Shenron-3](link-to-writeup)
+
+### 📦 Metasploitable Series
+- [Metasploitable-1](link-to-writeup)
+- [Metasploitable-2](link-to-writeup)
+- [Metasploitable-3](link-to-writeup)
+
+### 📦 DC Series
+- [DC-1](link-to-writeup)
+- [DC-2](link-to-writeup)
+- [DC-3.2](link-to-writeup)
+- [DC-4](link-to-writeup)
+
+### 📦 CyberSploit Series
+- [CyberSploit-1](link-to-writeup)
+- [CyberSploit-2](link-to-writeup)
+
+### 📦 Standalone / Unique Names
+| | | | |
+| :--- | :--- | :--- | :--- |
+| [Breakout](link-to-writeup) | [Hacksudo](link-to-writeup) | [Presidential-1](link-to-writeup) | [EvilBox-1](link-to-writeup) |
+| [Venom](link-to-writeup) | [Nightfall](link-to-writeup) | [Hacker-Kid](link-to-writeup) | [Cereal-1](link-to-writeup) |
+| [Beelzebub-1](link-to-writeup) | [Its October](link-to-writeup) | [ICA-1](link-to-writeup) | [Kira](link-to-writeup) |
+| [Escalate-My-Privileges](link-to-writeup) | [LinEsc](link-to-writeup) | | |
